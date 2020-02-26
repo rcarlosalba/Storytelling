@@ -48,29 +48,61 @@ Es necesario conocer el publico antes de contar la historia. Sin publico no hay 
 
 ## Preparación
 ### Cómo preparar historias?
-1. Qué queremos lograr? 
-2. Cuál es el punto A? 
-3. Cuál es el punto B? 
-4. Quién es el protagonista?
-5. Cuál es mi rol en la historia? 
+1. Qué queremos lograr?. 
+2. Cuál es el punto A?.
+3. Cuál es el punto B?.
+4. Quién es el protagonista?.
+5. Cuál es mi rol en la historia?. 
+
 Las buenas historias nos moldean, las historias atraviesan culturas, edades, costumbres y religiones. 
 Por ejemplo la de San valentin. 
 La verdad en las historias es subjetiva, no forma parte del storytelling, se trata de enganche no de verdad. 
 
-
 ### Proposito
+Motivo que nos lleva, la causa que nos mueve. Inspirar, la historia debe inspirar, trascender. 
 ### Audiciencia
+La historia es según la audiencia, no según el expositor. 
+**Diseñar y pensar una historia sin una audiencia en mente es como escribir una carta de amor dirigida: "a quien corresponda"**
 ### Cómo capturar la atención
+La lucha es por la atención. Estamos en un mar de estimulos. 
+Despertar tensión en la atención de los espectadores.. Po qué lo que voy a contar es importante para la audiencia. 
+Triada del engache: 
+1. Autenticidad.
+2. Relevancia.
+3. Empatía. 
+
 ## Elementos
 ### Elementos de una historia
-### La promesa, la magia, los protagonistas
+Hay 5 elementos clave: 
+1. Promesa: ¿Con qué nos comprometemos? .
+2. Magia: ¿Qué es lo extraordinario?.
+3. Protagonistas: ¿El sujeto y el objeto de la historia?.
+4. Palabras poderosas: El impacto y el tono.
+5. El punto focal: ¿Cuál es la imagen obvia del relato. 
+### La promesa, la magia, los protagonistas, palabras poderosas, focal point.
+**Promesa:** Aquello que describe nuestra historia.
+**Magia:** Aquello que hace extraordinario nuestra historia.
+**Protagonistas:** Aquellos con los que interactuamos en la historia.
+**Palabras poderosas:** Aquellas que se impregnan en la historia y nos hacen reflexionar. La cultura, y el Contexto de los lectores tienen un papel fundamental.
+**Punto focal:** Es la percepción obvia del personaje, en relación a los elementos de la historia. el “concepto”.
+
 ## Estrucutura
 ### Estructura de una historia
+1. Presentacion: Promesa, personajes, hipótesis.
+2. Desarrollo: demostración, conflicto, climax.
+3. Desenlace: Conlusión, cierre del circulo. 
+
+![El Camino del Héroe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javilayunta.com%2Fque-es-el-storytelling%2F&psig=AOvVaw2ryOwTw01Lo9OlySZ_C07A&ust=1582802154308000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCm69SL7-cCFQAAAAAdAAAAABAD)
 ## Formatos
 ### Escrito 
+
 ### Gráfico
+
 ### Audiovisual
+
 ## Consejos
 ### Reconocer el valor de una historia
+
 ### Foco en la historia, foco en la audicencia
+
 ### Ensayo, ensayo, ensayo
