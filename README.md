@@ -117,7 +117,9 @@ Permanencia, recuerdos.
 ### Reconocer el valor de una historia
 ¿Por qué deben seleccionar nuestros servicios? 
 Propósito de la historia. 
-[El circulo de oro](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=es)
+[El circulo de oro](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 ### Foco en la historia, foco en la audicencia
-
+Los videos de Think different y 1984 de Apple estan más conectados con lña audiencia que con los productos, con la idea, con la historia. 
 ### Ensayo, ensayo, ensayo
+Es tan o más importante que lo que vas a decir. 
+Las competencias se ganan entrenando. 
