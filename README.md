@@ -92,7 +92,7 @@ Hay 5 elementos clave:
 2. Desarrollo: demostración, conflicto, climax.
 3. Desenlace: Conlusión, cierre del circulo. 
 
-![El Camino del Héroe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javilayunta.com%2Fque-es-el-storytelling%2F&psig=AOvVaw2ryOwTw01Lo9OlySZ_C07A&ust=1582802154308000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCm69SL7-cCFQAAAAAdAAAAABAD)
+![El Camino del Héroe](https://www.javilayunta.com/wp-content/uploads/2019/02/Sin-t%C3%ADtulo-610x740.jpg)
 ## Formatos
 ### Escrito 
 
