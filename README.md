@@ -100,11 +100,24 @@ El titular es todo. TODO! Sujeto al idioma pues el idioma la puede dar contexto.
 Antes del texto ya teniamos lo gráfico. 
 La gráfica abre más posibilidades lo explícito y de lo implícito. Debe ser preciso, claro, directo. 
 [Infografía de la Corrupción](https://www.infobae.com/america/mundo/2018/08/18/el-peso-de-la-corrupcion-12-infografias-de-los-presidentes-que-mas-dinero-robaron/)
+La gráfica usualmente presenta: 
+-. Problema.
+-. Solucion.
+-. Experiencia.
+-. Producto.
+
 ### Audiovisual
+Es potencialmente buena/mala. 
+
+Ventajas y Desventajas: 
+Viralidad.
+Permanencia, recuerdos. 
 
 ## Consejos
 ### Reconocer el valor de una historia
-
+¿Por qué deben seleccionar nuestros servicios? 
+Propósito de la historia. 
+[El circulo de oro](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=es)
 ### Foco en la historia, foco en la audicencia
 
 ### Ensayo, ensayo, ensayo
