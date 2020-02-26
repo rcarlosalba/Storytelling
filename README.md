@@ -95,9 +95,11 @@ Hay 5 elementos clave:
 ![El Camino del Héroe](https://www.javilayunta.com/wp-content/uploads/2019/02/Sin-t%C3%ADtulo-610x740.jpg)
 ## Formatos
 ### Escrito 
-
+El titular es todo. TODO! Sujeto al idioma pues el idioma la puede dar contexto. Es popular, es global (dentro del idioma), genera movimiento en la cabeza. 
 ### Gráfico
-
+Antes del texto ya teniamos lo gráfico. 
+La gráfica abre más posibilidades lo explícito y de lo implícito. Debe ser preciso, claro, directo. 
+![Infografía de la Corrupción](https://www.infobae.com/america/mundo/2018/08/18/el-peso-de-la-corrupcion-12-infografias-de-los-presidentes-que-mas-dinero-robaron/)
 ### Audiovisual
 
 ## Consejos
