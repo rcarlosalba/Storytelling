@@ -99,7 +99,7 @@ El titular es todo. TODO! Sujeto al idioma pues el idioma la puede dar contexto.
 ### Gráfico
 Antes del texto ya teniamos lo gráfico. 
 La gráfica abre más posibilidades lo explícito y de lo implícito. Debe ser preciso, claro, directo. 
-![Infografía de la Corrupción](https://www.infobae.com/america/mundo/2018/08/18/el-peso-de-la-corrupcion-12-infografias-de-los-presidentes-que-mas-dinero-robaron/)
+[Infografía de la Corrupción](https://www.infobae.com/america/mundo/2018/08/18/el-peso-de-la-corrupcion-12-infografias-de-los-presidentes-que-mas-dinero-robaron/)
 ### Audiovisual
 
 ## Consejos
